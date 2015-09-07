@@ -13,5 +13,5 @@ Example:
 
     3 4 5 2]2]2 3 2]:*`
 
-This creates the arrays [3 [4 5]] and [2 3] and then does a foreach on the second one, 
-giving a result of [[6 [8 10]][9 [12 15]]] which is printed as 681091215
+This creates the arrays `[3 [4 5]]` and `[2 3]` and then does a foreach on the second one, multiplies them,
+giving a result of `[[6 [8 10]][9 [12 15]]]` which is printed as `681091215`
