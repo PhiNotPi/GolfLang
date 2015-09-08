@@ -3,8 +3,8 @@
 language and name subject to change without warning
 
 feature list:
- - input, either implicit or the fancier `` ` ``
- - output
+ - input `_`
+ - output, either implicit or the fancier `` ` ``
  - nested array creation via `[` and `]`
  - multiplication/addition/division/subtraction/exponentiation/stringEquality/splitToChars
  - foreach using `:`
