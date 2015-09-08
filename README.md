@@ -6,8 +6,9 @@ feature list:
  - input `_`
  - output, either implicit or the fancier `` ` ``
  - nested array creation via `[` and `]`
- - multiplication/addition/division/subtraction/exponentiation/stringEquality/splitToChars
+ - multiplication`*`/addition`+`/division`/`/subtraction`-`/exponentiation`^`/stringEquality`=`/splitToChars`c`
  - foreach using `:`
+ - reduce using `|`
 
 Example:
 
